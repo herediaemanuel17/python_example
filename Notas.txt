@@ -1,0 +1,6 @@
+$python run.py
+
+print(f"la suma es: {suma}")
+
+git log demuestra los commit
+git restore desace los cambios
